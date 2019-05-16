@@ -1,0 +1,7 @@
+C:\Users\tommi\OneDrive\VS Projects\grep\grep\bin\Debug\grep.exe.config
+C:\Users\tommi\OneDrive\VS Projects\grep\grep\bin\Debug\grep.exe
+C:\Users\tommi\OneDrive\VS Projects\grep\grep\bin\Debug\grep.pdb
+C:\Users\tommi\OneDrive\VS Projects\grep\grep\obj\Debug\grep.csprojAssemblyReference.cache
+C:\Users\tommi\OneDrive\VS Projects\grep\grep\obj\Debug\grep.csproj.CoreCompileInputs.cache
+C:\Users\tommi\OneDrive\VS Projects\grep\grep\obj\Debug\grep.exe
+C:\Users\tommi\OneDrive\VS Projects\grep\grep\obj\Debug\grep.pdb
